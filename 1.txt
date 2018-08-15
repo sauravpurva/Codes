@@ -1,0 +1,16 @@
+3
+vikas
+saurav
+nipun
+2
+bestfriend_of
+0 1 0
+1 0 0
+0 0 0
+friend_of
+0 0 1
+0 0 0
+1 0 0
+vikas
+saurav
+nipun
